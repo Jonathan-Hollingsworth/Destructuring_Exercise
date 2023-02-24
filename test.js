@@ -1,0 +1,1 @@
+const raceResults = ([first, second, third, ...rest]) => {return {first, second, third, rest}}
